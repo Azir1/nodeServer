@@ -1,0 +1,173 @@
+{
+    "_id" : "5edefaee474dd1aaba0179d4",
+    "status" : 8,
+    "state" : true,
+    "msg" : "请求成功",
+    "data" : {
+        "sup" : [ 
+            {
+                "id" : 40,
+                "title" : "小羽私厨之草莓豆腐提拉米苏，快来学习吧！",
+                "imgpath1" : "http://47.102.107.138:3456/images/video.mp4",
+                
+                "imgpath2" : "",
+                "imgpath3" : "",
+                "xiaobao" : "爱学习",
+                "saw":1232.2
+            }, 
+            {
+                "id" : 41,
+                "title" : "芒果班戟，一款让芒果爱好者狂热的甜点，跟着图解一起来学学怎么做吧！",
+                "imgpath1" : "http://47.102.107.138:3456/images/s1.jpg",
+                "imgpath2" : "http://47.102.107.138:3456/images/s2.jpg",
+                "imgpath3" : "http://47.102.107.138:3456/images/s3.jpg",
+                "xiaobao" : "爱生活",
+                "saw":206.6
+            }, 
+            {
+                "id" : 42,
+                "title" : "网评“巨坑”的6种网红小零食，脏脏包上榜，你吃过其中几种？",
+                "imgpath1" : "http://47.102.107.138:3456/images/s4.jpg",
+                "imgpath2" : "http://47.102.107.138:3456/images/s5.jpg",
+                "imgpath3" : "http://47.102.107.138:3456/images/s6.jpg",
+                "xiaobao" : "来评测",
+                "saw":23.3
+            }, 
+            {
+                "id" : 43,
+                "title" : "莫点法式马卡龙，一款清新甜美的超棒马卡龙，制作过程分解图出来了，快来看看吧！",
+                "imgpath1" : "http://47.102.107.138:3456/images/s7.jpg",
+                "imgpath2" : "http://47.102.107.138:3456/images/s8.jpg",
+                "imgpath3" : "http://47.102.107.138:3456/images/s9.jpg",
+                "xiaobao" : "是吃货",
+                "saw":6.66
+            }, 
+            {
+                "id" : 44,
+                "title" : "全球最贵的5大零食，贫穷限制了想象力！网友表示即使再贵、吃土也要尝试！",
+                "imgpath1" : "http://47.102.107.138:3456/images/s10.jpg",
+                "imgpath2" : "http://47.102.107.138:3456/images/s11.jpg",
+                "imgpath3" : "http://47.102.107.138:3456/images/s12.jpg",
+                "xiaobao" : "很震惊",
+                "saw":8.8
+            }  
+        ],
+        "new" :[
+            {
+                "id" : 47,
+                "imgpath1" : "http://47.102.107.138:3456/images/head3.jpg",
+				"imgpath2" : "http://47.102.107.138:3456/images/bigimg.jpg",
+                "shopname" : "小慧咖啡DIY",
+                "context":"831.22万粉丝",
+                "goods":[
+                    {"id" : 48,
+                    "imgpath1" : "http://47.102.107.138:3456/images/mb1.jpg",
+                    "goodsname" : "芒果布丁",
+                    "price":"￥12"},
+                     {"id" : 49,
+                        "imgpath1" : "http://47.102.107.138:3456/images/mb2.jpg",
+                        "goodsname" : "甜甜圈",
+                        "price":"￥8"
+                    },
+                    {
+                        "id" : 50,
+                        "imgpath1" : "http://47.102.107.138:3456/images/mb3.jpg",
+                        "goodsname" : "脏脏包",
+                        "price":"￥15"
+                    }
+                ]
+            }
+        ],
+        "userinfo":[
+            {
+                "id" : 45,
+                "imgpath1" : "http://47.102.107.138:3456/images/head1.jpg",
+                "shopname" : "小敏甜点城堡",
+                "context":"￥0起送 | 配送费￥5 / 评价4.8分 满45减8（不与美食活动同享）",
+                "goods":[                  
+                        {
+                            "id" : 51,
+                            "imgpath1" : "http://47.102.107.138:3456/images/mb4.jpg",
+                            "goodsname" : "玫瑰可可甜甜圈",
+                            "price":"￥12"
+                        },
+                        {
+                            "id" : 52,
+                            "imgpath1" : "http://47.102.107.138:3456/images/mb5.jpg",
+                            "goodsname" : "可可车厘子雪糕",
+                            "price":"￥15"
+                        },
+                        {
+                            "id" : 53,
+                            "imgpath1" : "http://47.102.107.138:3456/images/mb6.jpg",
+                            "goodsname" : "马卡龙",
+                            "price":"￥29"
+                        },
+                        {
+                            "id" : 54,
+                            "imgpath1" : "http://47.102.107.138:3456/images/mb7.jpg",
+                            "goodsname" : "醇香巧克力球",
+                            "price":"￥20"
+                        },
+                        {
+                            "id" : 55,
+                            "imgpath1" : "http://47.102.107.138:3456/images/mb8.jpg",
+                            "goodsname" : "芒果班戟",
+                            "price":"￥15"
+                        },
+                        {
+                            "id" : 56,
+                            "imgpath1" : "http://47.102.107.138:3456/images/mb9.jpg",
+                            "goodsname" : "芒果布丁",
+                            "price":"￥15"
+                        },
+                        {
+                            "id" : 57,
+                            "imgpath1" : "http://47.102.107.138:3456/images/mb10.jpg",
+                            "goodsname" : "铜锣烧",
+                            "price":"￥10"
+                        }                
+                ]               
+            },  
+            {
+                "id" : 46,
+                "imgpath1" : "http://47.102.107.138:3456/images/head2.jpg",
+                "shopname" : "鸭鸭广式糖水",
+                "context":"￥0起送 | 配送费￥5 / 评价4.8分 满25减4（不与美食活动同享）",
+                "goods":[
+                    {
+                        "id" : 58,
+                        "imgpath1" : "http://47.102.107.138:3456/images/mb11.jpg",
+                        "goodsname" : "玫瑰茯苓椰果糖水",
+                        "price":"￥12"
+                    },
+                    {
+                        "id" : 59,
+                        "imgpath1" : "http://47.102.107.138:3456/images/mb12.jpg",
+                        "goodsname" : "芒果西柚甜甜",
+                        "price":"￥15"
+                    },
+                    {
+                        "id" : 60,
+                        "imgpath1" : "http://47.102.107.138:3456/images/mb13.jpg",
+                        "goodsname" : "雪梨甜心",
+                        "price":"￥8"
+                    },
+                    {
+                        "id" : 61,
+                        "imgpath1" : "http://47.102.107.138:3456/images/mb14.jpg",
+                        "goodsname" : "芒果西米露",
+                        "price":"￥15"
+                    },
+                    {
+                        "id" : 62,
+                        "imgpath1" : "http://47.102.107.138:3456/images/mb15.jpg",
+                        "goodsname" : "芒果白雪黑糖糯米…",
+                        "price":"￥15"
+                    }
+                ]
+            }            
+        ]
+       
+    }
+}

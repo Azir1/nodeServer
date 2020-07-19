@@ -1,0 +1,87 @@
+{
+    "_id" : "5edefaee474dd1aaba0179d4",
+    "status" : 1,
+    "state" : true,
+    "msg" : "请求成功",
+    "data" : {
+        "banner" : [ 
+            {
+                "id" : "12",
+                "imgpath" : "http://47.102.107.138:3456/images/banner1.jpg",
+                "title" : "banner1"
+            }, 
+            {
+                "id" : "13",
+                "imgpath" : "http://47.102.107.138:3456/images/banner2.jpg",
+                "title" : "banner2"
+            }, 
+            {
+                "id" : "14",
+                "imgpath" : "http://47.102.107.138:3456/images/banner3.jpg",
+                "title" : "banner3"
+            }, 
+            {
+                "id" : "15",
+                "imgpath" : "http://47.102.107.138:3456/images/banner4.jpg",
+                "title" : "banner4"
+            }, 
+            {
+                "id" : "16",
+                "imgpath" : "http://47.102.107.138:3456/images/banner5.jpg",
+                "title" : "banner5"
+            }, 
+            {
+                "id" : "17",
+                "imgpath" : "http://47.102.107.138:3456/images/banner6.jpg",
+                "title" : "banner6"
+            }
+        ],
+        "store" : [ 
+            {
+                "id" : 18,
+                "title" : "甜甜圈",
+                "imgpath" : "http://47.102.107.138:3456/images/store-tiantianquan.jpg",
+                "address" : "虎丘区",
+                "label" : "甜点",
+                "distance" : "2.9",
+                "des" : "周末超值甜点，下午茶的必备，立享特色双人套餐…14元双份草莓奶油甜甜圈"
+            }, 
+            {
+                "id" : 19,
+                "title" : "甜甜圈",
+                "imgpath" : "http://47.102.107.138:3456/images/store-tiantianquan.jpg",
+                "address" : "虎丘区",
+                "label" : "甜点",
+                "distance" : "2.9",
+                "des" : "周末超值甜点，下午茶的必备，立享特色双人套餐…14元双份草莓奶油甜甜圈"
+            }, 
+            {
+                "id" : 20,
+                "title" : "甜甜圈",
+                "imgpath" : "http://47.102.107.138:3456/images/store-tiantianquan.jpg",
+                "address" : "虎丘区",
+                "label" : "甜点",
+                "distance" : "2.9",
+                "des" : "周末超值甜点，下午茶的必备，立享特色双人套餐…14元双份草莓奶油甜甜圈"
+            }, 
+            {
+                "id" : 21,
+                "title" : "甜甜圈",
+                "imgpath" : "http://47.102.107.138:3456/images/store-tiantianquan.jpg",
+                "address" : "虎丘区",
+                "label" : "甜点",
+                "distance" : "2.9",
+                "des" : "周末超值甜点，下午茶的必备，立享特色双人套餐…14元双份草莓奶油甜甜圈"
+            }, 
+            {
+                "id" : 22,
+                "title" : "甜甜圈",
+                "imgpath" : "http://47.102.107.138:3456/images/store-tiantianquan.jpg",
+                "address" : "虎丘区",
+                "label" : "甜点",
+                "distance" : "2.9",
+                "des" : "周末超值甜点，下午茶的必备，立享特色双人套餐…14元双份草莓奶油甜甜圈"
+            }
+        ]
+    }
+}

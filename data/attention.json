@@ -1,0 +1,95 @@
+{
+    "status" : 1,
+    "state" : true,
+    "msg" : "请求成功",
+    "data" : {
+        "Method_diagram" : [ 
+            {
+                "id" : "1111",
+				"Avatar":"http://47.102.107.138:3456/images/Avatar1.jpg",
+				"Storename":"小鲍糕点站",
+                "title" : "芒果班戟，一款让芒果爱好者狂热的甜点，跟着小鲍一起来学学怎么做吧！",
+				"imgpath1" : "http://47.102.107.138:3456/images/diagram1.jpg",
+				"imgpath2" :"http://47.102.107.138:3456/images/diagram2.jpg",
+				"imgpath3" :"http://47.102.107.138:3456/images/diagram3.jpg",
+				"Shopkeeper":"小鲍爱生活",
+				"flow":"206.6"
+            }, 
+            {
+                 "id" : "1112",
+				"Avatar":"http://47.102.107.138:3456/images/Avatar2.jpg",
+				"Storename":"小敏甜点城堡",
+                "title" : "莫点法式马卡龙，一款清新甜美的超棒马卡龙，制作过程分解图出来了，快来看看吧！",
+				"imgpath1" : "http://47.102.107.138:3456/images/diagram4.jpg",
+				"imgpath2" :"http://47.102.107.138:3456/images/diagram5.jpg",
+				"imgpath3" :"http://47.102.107.138:3456/images/diagram6.jpg",
+				"Shopkeeper":"小敏爱甜点",
+				"flow":"2.33"
+            }, 
+            {
+                 "id" : "1113",
+				"Avatar":"http://47.102.107.138:3456/images/Avatar3.jpg",
+				"Storename":"小慧咖啡DIY",
+                "title" : "芒果班戟，一款让芒果爱好者狂热的甜点，跟着小鲍一起来学学怎么做吧！DIY咖啡屋，只要是想要的咖啡，这里都有，欢迎各位前来尝试。",
+				"imgpath1" : "http://47.102.107.138:3456/images/diagram7.jpg",
+				"imgpath2" :"http://47.102.107.138:3456/images/diagram8.jpg",
+				"imgpath3" :"http://47.102.107.138:3456/images/diagram9.jpg",
+				"Shopkeeper":"小鲍DIY",
+				"flow":"15.1"
+            }, 
+            {
+                 "id" : "1114",
+				"Avatar":"http://47.102.107.138:3456/images/Avatar4.jpg",
+				"Storename":"鸭鸭广式糖水",
+                "title" : "鸭鸭广式糖水，口味纯正，甜蜜一冬，快约上小伙伴一起来品尝鸭。",
+				"imgpath1" : "http://47.102.107.138:3456/images/diagram10.jpg",
+				"imgpath2" :"http://47.102.107.138:3456/images/diagram11.jpg",
+				"imgpath3" :"http://47.105.107.138:3456/images/diagram12.jpg",
+				"Shopkeeper":"鸭鸭广式糖水",
+				"flow":"5.55"
+            }],
+           "Sun_list":[
+		   {
+		   "id" : "11111",
+		   "imgpath" : "http://47.102.107.138:3456/images/Copy1.jpg",
+		   "title" : "Fragrant chocolate"
+		   },
+		   {
+		   "id" : "11112",
+		   "imgpath" : "http://47.102.107.138:3456/images/Copy2.jpg",
+		   "title" : "超级好吃！！！"
+		   },
+		   {
+		   "id" : "11113",
+		   "imgpath" : "http://47.102.107.138:3456/images/Copy3.jpg",
+		   "title" : "马卡龙是什么绝世美食！"
+		   },
+		   {
+		   "id" : "11114",
+		   "imgpath" : "http://47.102.107.138:3456/images/Copy4.jpg",
+		   "title" : "芒果与巧克力简直绝配！太…"
+		   },
+		   {
+		   "id" : "11115",
+		   "imgpath" : "http://47.102.107.138:3456/images/Copy5.jpg",
+		   "title" : "芒果布丁真的很美味了！"
+		   },
+		   {
+		   "id" : "11116",
+		   "imgpath" : "http://47.102.107.138:3456/images/Copy6.jpg",
+		   "title" : "皇家咖啡太醇香了叭，一口…"
+		   },
+		   {
+		   "id" : "11117",
+		   "imgpath" : "http://47.102.107.138:3456/images/Copy7.jpg",
+		   "title" : "芒果班戟，芒果爱好者的绝爱"
+		   },
+		   {
+		   "id" : "11118",
+		   "imgpath" : "http://47.102.107.138:3456/images/Copy8.jpg",
+		   "title" : "广式糖水好甜好甜鸭~稀饭~"
+		   }
+		   
+		   ]
+    }
+}

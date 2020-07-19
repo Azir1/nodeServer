@@ -1,0 +1,134 @@
+{
+    "status" : 1,
+    "state" : true,
+    "msg" : "请求成功",
+    "data" : {
+        "orderlist":[
+            {
+                "id":1,
+                "imgpath":"http://47.102.107.138:3456/images/shop1.jpg",
+                "shop":"大卫便当(奥体店)",
+                "orderstatus":"订单完成",
+                "time":"2020-05-28 11:28",
+                "price":"¥13.8"
+            },
+            {
+                "id":2,
+                "imgpath":"http://47.102.107.138:3456/images/shop2.jpg",
+                "shop":"韩式脆皮鸡饭",
+                "orderstatus":"订单完成",
+                "time":"2020-05-25 11:33",
+                "price":"¥9.8"
+            },
+            {
+                "id":3,
+                "imgpath":"http://47.102.107.138:3456/images/shop3.jpg",
+                "shop":"牛哥的凉皮铺(虹悦城店)",
+                "orderstatus":"订单完成",
+                "time":"2020-05-23 11:56",
+                "price":"¥13.5"
+            },
+            {
+                "id":4,
+                "imgpath":"http://47.102.107.138:3456/images/shop4.jpg",
+                "shop":"叫了个炸鸡(安德门店)",
+                "orderstatus":"已取消",
+                "time":"2020-01-12 18:33",
+                "price":"¥25.3"
+            },
+            {
+                "id":5,
+                "imgpath":"http://47.102.107.138:3456/images/shop5.jpg",
+                "shop":"美亦粥(文体路店)",
+                "orderstatus":"订单完成",
+                "time":"2020-05-29 11:56",
+                "price":"¥15.8"
+            },
+            {
+                "id":6,
+                "imgpath":"http://47.102.107.138:3456/images/shop6.jpg",
+                "shop":"鸡鸣汤包(河西万达店)",
+                "orderstatus":"订单完成",
+                "time":"2019-12-21 10:45",
+                "price":"¥18.88"
+
+            },
+            {
+                "id":7,
+                "imgpath":"http://47.102.107.138:3456/images/shop7.jpg",
+                "shop":"一人罐焖肉饭(三山街店)",
+                "orderstatus":"已取消",
+                "time":"2019-11-21 10:53",
+                "price":"¥30.9"
+
+            },
+            {
+                "id":8,
+                "imgpath":"http://47.102.107.138:3456/images/shop1.jpg",
+                "shop":"大卫便当(奥体店)",
+                "orderstatus":"订单完成",
+                "time":"2020-05-28 11:28",
+                "price":"¥13.8"
+            },
+            {
+                "id":9,
+                "imgpath":"http://47.102.107.138:3456/images/shop2.jpg",
+                "shop":"韩式脆皮鸡饭",
+                "orderstatus":"订单完成",
+                "time":"2020-05-25 11:33",
+                "price":"¥9.8"
+            },
+            {
+                "id":10,
+                "imgpath":"http://47.102.107.138:3456/images/shop3.jpg",
+                "shop":"牛哥的凉皮铺(虹悦城店)",
+                "orderstatus":"订单完成",
+                "time":"2020-05-23 11:56",
+                "price":"¥13.5"
+            },
+            {
+                "id":11,
+                "imgpath":"http://47.102.107.138:3456/images/shop4.jpg",
+                "shop":"叫了个炸鸡(安德门店)",
+                "orderstatus":"已取消",
+                "time":"2020-01-12 18:33",
+                "price":"¥25.3"
+            },
+            {
+                "id":12,
+                "imgpath":"http://47.102.107.138:3456/images/shop5.jpg",
+                "shop":"美亦粥(文体路店)",
+                "orderstatus":"订单完成",
+                "time":"2020-05-29 11:56",
+                "price":"¥15.8"
+            },
+            {
+                "id":13,
+                "imgpath":"http://47.102.107.138:3456/images/shop6.jpg",
+                "shop":"鸡鸣汤包(河西万达店)",
+                "orderstatus":"订单完成",
+                "time":"2019-12-21 10:45",
+                "price":"¥18.88"
+
+            },
+            {
+                "id":14,
+                "imgpath":"http://47.102.107.138:3456/images/shop7.jpg",
+                "shop":"一人罐焖肉饭(三山街店)",
+                "orderstatus":"已取消",
+                "time":"2019-11-21 10:53",
+                "price":"¥30.9"
+
+            },
+            {
+                "id":15,
+                "imgpath":"http://47.102.107.138:3456/images/shop5.jpg",
+                "shop":"美亦粥(文体路店)",
+                "orderstatus":"订单完成",
+                "time":"2020-05-29 11:56",
+                "price":"¥15.8"
+            }
+        ]
+       
+    }
+}
